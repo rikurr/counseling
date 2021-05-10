@@ -1,0 +1,38 @@
+{
+  "questions": [
+    {
+      "question": "休日は家にいることが多い",
+      "questionPic": "https://dummyimage.com/600x400/000/fff&text=X",
+      "questionType": "text",
+      "answerSelectionType": "single",
+      "answers": ["ほとんど家にいる", "外出するのと同じくらい", "外出が多い"],
+      "correctAnswer": "1",
+      "messageForCorrectAnswer": "Correct answer. Good job.",
+      "messageForIncorrectAnswer": "Incorrect answer. Please try again.",
+      "explanation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "point": "20"
+    },
+    {
+      "question": "睡眠時間はどれくらい？",
+      "questionType": "text",
+      "answerSelectionType": "single",
+      "answers": ["5時間未満", "5~7時間", "7時間以上"],
+      "correctAnswer": "1",
+      "messageForCorrectAnswer": "Correct answer. Good job.",
+      "messageForIncorrectAnswer": "Incorrect answer. Please try again.",
+      "explanation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "point": "20"
+    },
+    {
+      "question": "1日の運動時間はどれくらい？",
+      "questionType": "text",
+      "answerSelectionType": "single",
+      "answers": ["ほとんどしていない", "30分未満", "1時間未満", "1時間以上"],
+      "correctAnswer": "3",
+      "messageForCorrectAnswer": "Correct answer. Good job.",
+      "messageForIncorrectAnswer": "Incorrect answer. Please try again.",
+      "explanation": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "point": "10"
+    }
+  ]
+}
