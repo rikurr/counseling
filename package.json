@@ -60,7 +60,7 @@
     "lint-staged": "^11.0.0",
     "postcss": "^8.2.10",
     "postcss-nested": "^5.0.5",
-    "prettier": "^2.2.1",
+    "prettier": "^2.3.0",
     "prettier-plugin-tailwind": "^2.2.10",
     "storybook-css-modules-preset": "^1.0.8",
     "tailwindcss": "^2.1.1",
