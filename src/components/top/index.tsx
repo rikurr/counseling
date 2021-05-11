@@ -7,7 +7,7 @@ type Props = {
 export const Top: React.VFC<Props> = ({ onClick }) => {
   return (
     <div className="text-center">
-      <h1 className="text-xl font-bold">診断アプリ</h1>
+      <h1 className="text-xl font-bold">生活診断</h1>
       <div className="mt-4 text-center">
         <button
           onClick={onClick}
